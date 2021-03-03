@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  width: 100vw;
+  background-color: #333;
+  height: 100vh;
+  -webkit-margin-collapse: collapse;
+}
