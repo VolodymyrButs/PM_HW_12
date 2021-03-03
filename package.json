@@ -2,6 +2,7 @@
   "name": "pm-homework-12",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://volodymyrbuts.github.io/PM_HW_12/",
   "dependencies": {
     "cra-template": "1.1.2",
     "gh-pages": "^3.1.0",
